@@ -38,6 +38,14 @@ button{
         background: rgb(202, 184, 211);
          }
 
+         .bg3{ 
+          background: rgb(124, 80, 146);
+           }
+
+           .bg3:hover{ 
+            background: rgb(131, 236, 243);
+             }
+
 .position{ 
    position: absolute;
    left: 70%;
